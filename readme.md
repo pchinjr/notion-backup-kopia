@@ -21,8 +21,13 @@ Create an AWS S3 Bucket, and make note of the bucket name, secret key, and secre
 5. Sit back and watch your automations run like a good robot.
 
 references:
+
 https://github.com/darobin/notion-backup
+
 https://betterprogramming.pub/schedule-node-js-scripts-on-your-mac-with-launchd-a7fca82fbf02
+
 https://artur-en.medium.com/automated-notion-backups-f6af4edc298d
+
 https://notionbackups.com/blog/automated-notion-backup-api
+
 https://kopia.io/docs/reference/command-line/
